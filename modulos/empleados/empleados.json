@@ -1,0 +1,323 @@
+[
+    {
+        "persona": {
+            "id": "1",
+            "nombre": "Daniela",
+            "genero": "Femenino",
+            "fecha_de_nacimiento": "2002-06-22",
+            "rfc": "Da20964",
+            "curp": "DHZTRS",
+            "estado": "Guanajuato",
+            "ciudad": "Leon",
+            "colonia": "Leon moderno",
+            "cp": "37250",
+            "domicilio": "Stratus 208",
+            "apellido_materno":"Gonzales",
+            "apellido_paterno":"hernadez",
+            "telefono":"4776401490",
+            "emial":"email123@gamil.com"
+        },
+        "puesto": "Gerente",
+        "salario": "1800",
+        "fecha_de_ingreso": "2020-10-12",
+        "estatus":1,
+        "sucursal": {
+            "id_sucursal": "1",
+            "nombre_sucursal": "Plaza Mayor"
+        },
+        "usuario": {
+            "contraceña": "contraseña1",
+            "tipoUsuario": "ADMS",
+            "nombreUsuario": "contraseña1"
+        }
+    },
+    {
+        "persona": {
+            "id": "2",
+            "nombre": "Juan",
+            "genero": "Masculino",
+            "fecha_de_nacimiento": "1990-03-15",
+            "rfc": "JP90872",
+            "curp": "JPNTRZ",
+            "estado": "Jalisco",
+            "ciudad": "Guadalajara",
+            "colonia": "Centro",
+            "cp": "44100",
+            "domicilio": "Avenida Juarez 345",
+             "apellido_paterno":"Perez",
+            "apellido_materno":"hernadez",
+            "telefono":"4776501480",
+            "emial":"email123@gamil.com"
+        },
+        "puesto": "Empleado",
+        "salario": "1200",
+        "fecha_de_ingreso": "2018-05-20",
+        "estatus":0,
+        "sucursal": {
+            "id_sucursal": "2",
+            "nombre_sucursal": "Centro Max"
+        },
+        "usuario": {
+            "contraceña": "contraseña2",
+            "tipoUsuario": "ADMS",
+            "nombreUsuario": "contraseña2"
+        }
+    },
+    {
+        "persona": {
+            "id": "3",
+            "nombre": "Ana María",
+            "genero": "Femenino",
+            "fecha_de_nacimiento": "1985-11-05",
+            "rfc": "MG58974",
+            "curp": "MGRZTN",
+            "estado": "Ciudad de México",
+            "ciudad": "México DF",
+            "colonia": "Condesa",
+            "cp": "06140",
+            "domicilio": "Calle Amsterdam 123",
+             "apellido_paterno":"González",
+            "apellido_materno":"Lopez",
+            "telefono":"47709362",
+            "emial":"email124@gamil.com"
+        },
+        "puesto": "Gerente",
+        "salario": "1900",
+        "fecha_de_ingreso": "2017-08-10",
+                "estatus":1,
+
+        "sucursal": {
+            "id_sucursal": "1",
+            "nombre_sucursal": "Centro"
+        },
+        "usuario": {
+            "contraceña": "contraseña3",
+            "tipoUsuario": "ADMS",
+            "nombreUsuario": "contraseña3"
+        }
+    },
+        {
+        "persona": {
+            "id": "4",
+            "nombre": "Pedro",
+            "genero": "Masculino",
+            "fecha_de_nacimiento": "1995-09-18",
+            "rfc": "PR75349",
+            "curp": "PRMRZP",
+            "estado": "Nuevo León",
+            "ciudad": "Monterrey",
+            "colonia": "Centro",
+            "cp": "64000",
+            "domicilio": "Calle Morelos 87",
+            "apellido_paterno":"Solis",
+            "apellido_materno":"Gutierres",
+            "telefono":"477098763",
+            "emial":"email125@gamil.com"
+        },
+        "puesto": "Empleado",
+        "salario": "1500",
+        "fecha_de_ingreso": "2019-02-05",
+                "estatus":1,
+        "sucursal": {
+            "id_sucursal": "3",
+            "nombre_sucursal": "Cicefa1"
+        },
+        "usuario": {
+            "contraceña": "contraseña4",
+            "tipoUsuario": "ADMS",
+            "nombreUsuario": "contraseña4"
+        }
+    },
+       {
+        "persona": {
+            "id": "5",
+            "nombre": "Rosaura",
+            "genero": "Femenino",
+            "fecha_de_nacimiento": "1998-07-10",
+            "rfc": "LS48923",
+            "curp": "LSSNCHZ",
+            "estado": "Veracruz",
+            "ciudad": "Veracruz",
+            "colonia": "Reforma",
+            "cp": "91700",
+            "domicilio": "Avenida Insurgentes 567",
+            "apellido_paterno":"Perez",
+            "apellido_materno":"Elias",
+            "telefono":"477098763",
+            "emial":"email126@gamil.com"
+        },
+        "puesto": "Empleado",
+        "salario": "1000",
+        "fecha_de_ingreso": "2022-03-30",
+                "estatus":0,
+        "sucursal": {
+            "id_sucursal": "2",
+            "nombre_sucursal": "por definir"
+        },
+        "usuario": {
+            "contraceña": "contraseña5",
+            "tipoUsuario": "ADMS",
+            "nombreUsuario": "contraseña5"
+        }
+    },
+      {
+        "persona": {
+            "id": "6",
+            "nombre": "Roberto ",
+            "genero": "Masculino",
+            "fecha_de_nacimiento": "1980-01-02",
+            "rfc": "RG45687",
+            "curp": "RBGTRZ",
+            "estado": "Puebla",
+            "ciudad": "Puebla",
+            "colonia": "La Paz",
+            "cp": "72160",
+            "domicilio": "Calle Hidalgo 21",
+            "apellido_paterno":"Gutierrez",
+            "apellido_materno":"Marquez",
+            "telefono":"477098763",
+            "emial":"email127@gamil.com"
+        },
+        "puesto": "Gerente",
+        "salario": "1800",
+        "fecha_de_ingreso": "2016-12-15",
+                "estatus":1,
+        "sucursal": {
+            "id_sucursal": "1",
+            "nombre_sucursal": "por definir"
+        },
+        "usuario": {
+            "contraceña": "contraseña6",
+            "tipoUsuario": "ADMS",
+            "nombreUsuario": "contraseña6"
+        }
+    },
+        {
+        "persona": {
+            "id": "7",
+            "nombre": "Ana ",
+            "genero": "Femenino",
+            "fecha_de_nacimiento": "1993-04-25",
+            "rfc": "AJ56789",
+            "curp": "ANJMNZ",
+            "estado": "Jalisco",
+            "ciudad": "Zapopan",
+            "colonia": "Las Aguilas",
+            "cp": "45070",
+            "domicilio": "Calle Olivo 43",
+            "apellido_paterno":"Rodriguez",
+            "apellido_materno":"Eli",
+            "telefono":"477098763",
+            "emial":"email127@gamil.com"
+        },
+        "puesto": "Empleado",
+        "salario": "1200",
+        "fecha_de_ingreso": "2021-07-05",
+                "estatus":0,
+        "sucursal": {
+            "id_sucursal": "2",
+            "nombre_sucursal": "por definir"
+        },
+        "usuario": {
+            "contraceña": "contraseña7",
+            "tipoUsuario": "ADMS",
+            "nombreUsuario": "contraseña7"
+        }
+    },
+       {
+        "persona": {
+            "id": "8",
+            "nombre": "Carlos ",
+            "genero": "Masculino",
+            "fecha_de_nacimiento": "1987-12-30",
+            "rfc": "CM42568",
+            "curp": "CRSMNDZ",
+            "estado": "Sonora",
+            "ciudad": "Hermosillo",
+            "colonia": "Centro",
+            "cp": "83000",
+            "domicilio": "Avenida Serdán 987",
+             "apellido_paterno":"Vela",
+            "apellido_materno":"Lopez",
+            "telefono":"477098763",
+            "emial":"email128@gamil.com"
+        },
+        "puesto": "Empleado",
+        "salario": "1900",
+        "fecha_de_ingreso": "2015-11-10",
+                "estatus":1,
+        "sucursal": {
+            "id_sucursal": "3",
+            "nombre_sucursal": "por definir"
+        },
+        "usuario": {
+            "contraceña": "contraseña8",
+            "tipoUsuario": "ADMS",
+            "nombreUsuario": "contraseña8"
+        }
+    },
+       {
+        "persona": {
+            "id": "9",
+            "nombre": "Kenia ",
+            "genero": "Femenino",
+            "fecha_de_nacimiento": "1991-08-14",
+            "rfc": "ET74125",
+            "curp": "ELNTRRS",
+            "estado": "Quintana Roo",
+            "ciudad": "Cancún",
+            "colonia": "Playa del Carmen",
+            "cp": "77710",
+            "domicilio": "Calle del Mar 235",
+             "apellido_paterno":"Olalde",
+            "apellido_materno":"Lopez",
+            "telefono":"477098763",
+            "emial":"email129@gamil.com"
+        },
+        "puesto": "Empleada",
+        "salario": "1500",
+        "fecha_de_ingreso": "2019-10-20",
+                "estatus":0,
+        "sucursal": {
+            "id_sucursal": "2",
+            "nombre_sucursal": "por definir"
+        },
+        "usuario": {
+            "contraceña": "contraseña9",
+            "tipoUsuario": "ADMS",
+            "nombreUsuario": "contraseña9"
+        }
+    },
+        {
+        "persona": {
+            "id": "10",
+            "nombre": "Fernando ",
+            "genero": "Masculino",
+            "fecha_de_nacimiento": "1997-02-08",
+            "rfc": "FG31589",
+            "curp": "FRNGMZ",
+            "estado": "Chihuahua",
+            "ciudad": "Chihuahua",
+            "colonia": "San Felipe",
+            "cp": "31000",
+            "domicilio": "Calle Sierra 78",
+             "apellido_paterno":"Huerta",
+            "apellido_materno":"Torres",
+            "telefono":"477098763",
+            "emial":"email1210@gamil.com"
+        },
+        "puesto": "Empleado",
+        "salario": "1000",
+        "fecha_de_ingreso": "2023-01-05",
+                "estatus":1,
+        "sucursal": {
+            "id_sucursal": "3",
+            "nombre_sucursal": "por definir"
+        },
+        "usuario": {
+            "contraceña": "contraseña10",
+            "tipoUsuario": "ADMS",
+            "nombreUsuario": "contraseña10"
+        }
+    }
+]
